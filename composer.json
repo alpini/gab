@@ -1,13 +1,13 @@
 {
-    "name": "xyu/heroku-wp",
-    "description": "A template for installing and running WordPress on Heroku",
-    "homepage": "https://github.com/xyu/heroku-wp",
+    "name": "alpini/gab",
+    "description": "WordPress deployment on Heroku for GAB",
+    "homepage": "https://github.com/alpini/gab",
     "license": "MIT",
     "authors": [
         {
-            "name": "Xiao Yu",
-            "email": "me@xyu.io",
-            "homepage": "http://xyu.io",
+            "name": "Carlo Oldani",
+            "email": "carlo.oldani@icloud.com",
+            "homepage": "http://alpini.io",
             "role": "Developer"
         }
     ],
